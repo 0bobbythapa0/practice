@@ -26,7 +26,7 @@ query-it is the record of the change.
 command-git commit -m "some message"
 
 # push
-query-upload local repo content to remote repo
+query-upload local repo content to remote repo  
 command-git push origin main
 
 -> after push command it will make changes in the github repo.
